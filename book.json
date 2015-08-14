@@ -1,7 +1,8 @@
 {
     "plugins": [
         "katex",
-        "yahei"
+        "yahei",
+        "richquotes"
     ],
     "pluginsConfig": {}
 }
