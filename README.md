@@ -1,5 +1,5 @@
 # 视频团队修炼手册
-这是一份给求是潮视频团队成员的修炼手册，
+这是一份给求是潮视频团队成员的修炼手册。
 
 ## 关于本文档
 本文档的Github托管地址为：[Github仓库](https://github.com/corenel/QSC-Video-Tutorial)。你可以Star之来追踪本文档的更新。
