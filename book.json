@@ -3,7 +3,7 @@
         "katex",
         "yahei",
         "richquotes",
-        "quizzes"
+        "quizzes@1.5.0"
     ],
     "pluginsConfig": {}
 }
