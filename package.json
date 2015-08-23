@@ -1,9 +1,0 @@
-{
-    "name": "book",
-    "version": "0.0.0",
-    "dependencies": {
-        "gitbook-plugin-yahei": "*",
-        "gitbook-plugin-katex": "*",
-        "gitbook-plugin-richquotes": "*"
-    }
-}
