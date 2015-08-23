@@ -27,3 +27,13 @@
 ![Fig 1.4](../image/Fig_1.4.jpg)
 
 首先看这样一张图，这是Falcom公司出品的游戏《零之轨迹》OST的封底。打开图片的属性窗口，我们可以看到如下几个参数：
+
+|Property|Value|
+|:|:|
+|Dimension|1920*1200|
+|Width|1920 pixels|
+|Height|1200 pixels|
+|Bit depth|24|
+|Item type|JPG file|
+
+### 图像分辨率(Image resolution)
