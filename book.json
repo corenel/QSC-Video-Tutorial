@@ -2,7 +2,8 @@
     "plugins": [
         "katex",
         "yahei",
-        "richquotes"
+        "richquotes",
+        "quiz"
     ],
     "pluginsConfig": {}
 }
