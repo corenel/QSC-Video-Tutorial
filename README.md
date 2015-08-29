@@ -11,10 +11,10 @@
 ## 如何改进本文档
 如果你愿意为下一届小朋友的知识积累而做出贡献，或者说你发现了本文档的不足之处，欢迎提交commit。具体方法如下：
 
-1. 成为本项目的Collaborators：发邮件或者直接QQ告诉我你的邮箱地址，我会审核后添加到本项目的Collaborators之中。之后即可直接使用GitBook的在线编辑器对本文档进行编辑。（推荐方式）
-2. 在Github上Fork本项目，修改之后提交Pull Request。
-3. 在本项目的Github Repo上提交Issue，指出改进意见。
-4. 懒得使用GitBook与Github的话直接发邮件或者QQ发消息给我也无不可。
+* 成为本项目的Collaborators：发邮件或者直接QQ告诉我你的邮箱地址，我会审核后添加到本项目的Collaborators之中。之后即可直接使用GitBook的在线编辑器对本文档进行编辑。（推荐方式）
+* 在Github上Fork本项目，修改之后提交Pull Request。
+* 在本项目的Github Repo上提交Issue，指出改进意见。
+* 懒得使用GitBook与Github的话直接发邮件或者QQ发消息给我也无不可。
 
 关于Git的快速入门教程可以参见[廖雪峰的Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)。
 ### 编辑器
