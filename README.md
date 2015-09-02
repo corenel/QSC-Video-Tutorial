@@ -4,9 +4,9 @@
 ## 关于本文档
 本文档的Github托管地址为：[Github仓库](https://github.com/corenel/QSC-Video-Tutorial)。你可以Star之来追踪本文档的更新。
 
-本文档的在线阅读地址为：[GitBook地址](http://corenel.gitbooks.io/qsc-video-tutorial/content/)
+本文档的在线阅读地址为：[GitBook地址](https://www.gitbook.com/read/book/qsc-video/qsc-video-tutorial)
 
-如果要下载本文档，可以点击[这里](https://www.gitbook.com/book/corenel/qsc-video-tutorial/details)选择下载，支持PDF、EPUB以及MOBI格式。请选择适合自己阅读终端的格式下载。
+如果要下载本文档，可以点击[这里](https://www.gitbook.com/book/qsc-video/qsc-video-tutorial/details)选择下载，支持PDF、EPUB以及MOBI格式。请选择适合自己阅读终端的格式下载。
 
 ## 如何改进本文档
 如果你愿意为下一届小朋友的知识积累而做出贡献，或者说你发现了本文档的不足之处，欢迎提交commit。具体方法如下：
