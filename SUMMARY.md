@@ -8,7 +8,7 @@
    * [视频基础概念](ch01/04_Intro_to_video.md)
    * [视频的基本参数](ch01/05_Properties_of_video.md)
 * [摄像及摄像机基础知识](ch02/README.md)
+* 视频制作的分工与基本流程
 * [附录](appendix/README.md)
 * [Exercise 1](ch01/Ex01.md)
-* 视频制作的分工与基本流程
 
