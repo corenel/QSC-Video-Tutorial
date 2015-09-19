@@ -8,7 +8,7 @@
    * [视频基础概念](ch01/04_Intro_to_video.md)
    * [视频的基本参数](ch01/05_Properties_of_video.md)
 * [摄像及摄像机基础知识](ch02/README.md)
-   * 摄影基础知识
+   * [摄影基础知识](ch02/01_Intro_to_Photography.md)
    * 摄像机基础知识
    * 摄像机配件简介
    * 索尼FS系列摄像机技巧
