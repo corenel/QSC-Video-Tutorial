@@ -10,8 +10,8 @@
 * [摄像及摄像机基础知识](ch02/README.md)
    * 摄影基础知识
    * 摄像机基础知识
-   * 索尼FS系列摄像机技巧
    * 摄像机配件简介
+   * 索尼FS系列摄像机技巧
 * [视频制作分工与基本流程](ch03/README.md)
 * [附录](appendix/README.md)
 * [Exercise 1](ch01/Ex01.md)
