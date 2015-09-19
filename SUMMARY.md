@@ -7,7 +7,7 @@
    * [色彩与色彩空间](ch01/03_Color_and_color_space.md)
    * [视频基础概念](ch01/04_Intro_to_video.md)
    * [视频的基本参数](ch01/05_Properties_of_video.md)
-   * 音频基本概念与参数
+   * [音频基本概念与参数](ch01/06_Intro_to_Audio.md)
 * [摄像及摄像机基础知识](ch02/README.md)
    * [摄影基础知识](ch02/01_Intro_to_Photography.md)
    * [摄像机基础知识](ch02/02_Intro_to_Shooting.md)
