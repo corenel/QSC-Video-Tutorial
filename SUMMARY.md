@@ -8,6 +8,7 @@
    * [视频基础概念](ch01/04_Intro_to_video.md)
    * [视频的基本参数](ch01/05_Properties_of_video.md)
    * [音频基本概念与参数](ch01/06_Intro_to_Audio.md)
+* [Exercise 1](ch01/Ex01.md)
 * [摄像及摄像机基础知识](ch02/README.md)
    * [摄影基础知识](ch02/01_Intro_to_Photography.md)
    * [摄像机基础知识](ch02/02_Intro_to_Shooting.md)
@@ -15,5 +16,4 @@
    * [索尼FS系列摄像机技巧](ch02/04_Tips_for_FS_series.md)
 * [视频制作分工与基本流程](ch03/README.md)
 * [附录](appendix/README.md)
-* [Exercise 1](ch01/Ex01.md)
 
