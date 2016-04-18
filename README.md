@@ -20,7 +20,7 @@
 ### 编辑器
 GitBook支持Markdown语法，所以请尽量使用Markdown语法来编辑本文档。关于Markdown语法的入门教程可以参见[这里](http://www.ituring.com.cn/article/504)。
 
-编辑器推荐使用GitBook自家的[Editor](https://www.gitbook.com/editor)，简单方便，不用涉及SUMMARY.md等的修改。当然如果你使用Chrome浏览器的话，[马克飞象](https://maxiang.info/)这个扩展程序也是很赞的。
+编辑器推荐使用GitBook自家的[Editor](https://www.gitbook.com/editor)，简单方便，不用涉及SUMMARY.md等的修改。当然如果你使用Chrome浏览器的话，[马克飞象](https://maxiang.info/)这个扩展程序也是很赞的。另外推荐Typora。
 
 如果喜欢在线编辑，可以尝试[StackEdit](https://stackedit.io/editor#)这个网站。
 
